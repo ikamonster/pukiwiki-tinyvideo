@@ -9,7 +9,9 @@ video タグの全ての属性や複数 source 指定には対応しない簡易
 
 ## インストール
 
-tinyvideo.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+下記GitHubページからダウンロードした tinyvideo.inc.php を PukiWiki の plugin ディレクトリに配置してください。
+
+[https://github.com/ikamonster/pukiwiki-tinyvideo](https://github.com/ikamonster/pukiwiki-tinyvideo)
 
 ## 使い方
 
